@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio Jumprdmn",
+  "description": "Modern dashboard-style developer portfolio website for jumprdmn featuring projects, experience, skills, and interactive clock widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
